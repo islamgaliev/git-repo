@@ -1,0 +1,3 @@
+print 'danis';
+print'like';
+print 'hello';
